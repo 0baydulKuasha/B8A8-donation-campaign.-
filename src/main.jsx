@@ -9,6 +9,7 @@ import Root from './assets/Compontent/Root/Root.jsx';
 import Home from './assets/Compontent/Pages/Home';
 import Navber from './assets/Compontent/Header/Navber/Navber';
 import Statistics from './assets/Compontent/Statistics/Statistics';
+import Donations from './assets/Compontent/Donations/Donations';
 
 const router = createBrowserRouter([
   {
@@ -16,17 +17,22 @@ const router = createBrowserRouter([
     element: <Root/>,
     children:[
       {
-        path:"/",
+        path:"/Navbar",
         element:<Navber/>
       },
       {
         path:"/home",
         element:<Home/>
       },
+      {path:"/donation",
+       element: <Donations/>
+      },
+
       {
         path:"/statistics",
         element:<Statistics/>
-      }
+      },
+
 
     ]
   },
