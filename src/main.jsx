@@ -5,8 +5,10 @@ import {
   createBrowserRouter,
   RouterProvider,
 } from "react-router-dom";
-import Root from './assets/Compontent/Root/Root.jsx';
-// import Header from './assets/Compontent/Header/Header.jsx';
+import Root from './assets/Compontent/Root/Root.jsx'; 
+import Home from './assets/Compontent/Pages/Home';
+import Navber from './assets/Compontent/Header/Navber/Navber';
+import Statistics from './assets/Compontent/Statistics/Statistics';
 
 const router = createBrowserRouter([
   {
@@ -14,9 +16,18 @@ const router = createBrowserRouter([
     element: <Root/>,
     children:[
       {
-        path:'/header',
-        // element: <Header/>
+        path:"/",
+        element:<Navber/>
+      },
+      {
+        path:"/home",
+        element:<Home/>
+      },
+      {
+        path:"/statistics",
+        element:<Statistics/>
       }
+
     ]
   },
 ]);

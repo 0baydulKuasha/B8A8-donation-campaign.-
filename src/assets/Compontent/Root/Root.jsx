@@ -1,11 +1,12 @@
-import { Outlet } from "react-router-dom";
-import Header from "../Header/Header";
+import { Outlet } from "react-router-dom"; 
+import Navber from "../Header/Navber/Navber";
 
 const Root = () => {
     return (
         <div className=" container m-auto ">
-             <Header/>
+             <Navber/>
              <Outlet/>
+             
         </div>
     );
 };

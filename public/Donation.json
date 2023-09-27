@@ -1,0 +1,148 @@
+ [
+      {
+        "id":"1",
+        "Picture": "product1.jpg",
+        "Title": "Product 1",
+        "Category": "Electronics",
+        "Category_bg": "#3498db",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#e74c3c",
+        "Description": "This is a description for Product 1.",
+        "Price": "$199.99"
+      },
+      {
+        "id":"2",
+        "Picture": "product2.jpg",
+        "Title": "Product 2",
+        "Category": "Clothing",
+        "Category_bg": "#e67e22",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#2ecc71",
+        "Description": "This is a description for Product 2.",
+        "Price": "$49.99"
+      },
+      {
+        "id":"3",
+        "Picture": "product3.jpg",
+        "Title": "Product 3",
+        "Category": "Home & Garden",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#f1c40f",
+        "Description": "This is a description for Product 3.",
+        "Price": "$89.99"
+      },
+      {
+        "id":"4",
+        "Picture": "product4.jpg",
+        "Title": "Product 4",
+        "Category": "Electronics",
+        "Category_bg": "#3498db",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#e74c3c",
+        "Description": "This is a description for Product 4.",
+        "Price": "$149.99"
+      },
+      {
+        "id":"5",
+        "Picture": "product5.jpg",
+        "Title": "Product 5",
+        "Category": "Clothing",
+        "Category_bg": "#e67e22",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#2ecc71",
+        "Description": "This is a description for Product 5.",
+        "Price": "$39.99"
+      },
+      {
+        "id":"6",
+        "Picture": "product6.jpg",
+        "Title": "Product 6",
+        "Category": "Home & Garden",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#f1c40f",
+        "Description": "This is a description for Product 6.",
+        "Price": "$79.99"
+      },
+      {
+        "id":"7",
+        "Picture": "product7.jpg",
+        "Title": "Product 7",
+        "Category": "Electronics",
+        "Category_bg": "#3498db",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#e74c3c",
+        "Description": "This is a description for Product 7.",
+        "Price": "$219.99"
+      },
+      {
+        "id":"8",
+        "Picture": "product8.jpg",
+        "Title": "Product 8",
+        "Category": "Clothing",
+        "Category_bg": "#e67e22",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#2ecc71",
+        "Description": "This is a description for Product 8.",
+        "Price": "$59.99"
+      },
+      {
+        "id":"9",
+        "Picture": "product9.jpg",
+        "Title": "Product 9",
+        "Category": "Home & Garden",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#f1c40f",
+        "Description": "This is a description for Product 9.",
+        "Price": "$99.99"
+      },
+      {
+        "id":"10",
+        "Picture": "product10.jpg",
+        "Title": "Product 10",
+        "Category": "Electronics",
+        "Category_bg": "#3498db",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#e74c3c",
+        "Description": "This is a description for Product 10.",
+        "Price": "$129.99"
+      },
+      {
+        "id":"11",
+        "Picture": "product11.jpg",
+        "Title": "Product 11",
+        "Category": "Clothing",
+        "Category_bg": "#e67e22",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#2ecc71",
+        "Description": "This is a description for Product 11.",
+        "Price": "$69.99"
+      },
+      {
+        "id":"12",
+        "Picture": "product12.jpg",
+        "Title": "Product 12",
+        "Category": "Home & Garden",
+        "Category_bg": "#9b59b6",
+        "Card_bg": "#ffffff",
+        "Text_bg": "#000000",
+        "Button_bg": "#f1c40f",
+        "Description": "This is a description for Product 12.",
+        "Price": "$109.99"
+      }
+]
+
+  
